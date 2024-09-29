@@ -1,6 +1,7 @@
 # [SQL] Explore E-commerce Dataset
 ## I. Introduction
-This project presents an in-depth exploration of an e-commerce dataset utilizing Google BigQuery. The analysis encompasses a series of SQL queries designed to aggregate, transform, and filter data, ultimately extracting actionable insights to inform strategic decision-making.
+- Leveraged problem-solving skills to create complex SQL queries, evaluating product performance, sales, discount strategies, customer retention, and inventory management.
+- Extracted actionable insights from big data, informing strategic decision-making in Marketing, demonstrating proficiency in data-driven business analysis.
 ## II. Dataset Access
 The e-commerce dataset is stored in a public Google BigQuery dataset. To access the dataset, follow these steps:
 - Log in to your Google Cloud Platform account and create a new project.
