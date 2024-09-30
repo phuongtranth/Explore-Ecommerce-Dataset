@@ -1,7 +1,7 @@
-# [SQL] Explore E-commerce Dataset
+# [SQL] Website Performance Analysis
+
 ## I. Introduction
-- Leveraged problem-solving skills to create complex SQL queries, evaluating product performance, sales, discount strategies, customer retention, and inventory management.
-- Extracted actionable insights from big data, informing strategic decision-making in Marketing, demonstrating proficiency in data-driven business analysis.
+In this project, I applied advanced SQL techniques, including sliding window and aggregation queries, using Google BigQuery to analyze e-commerce data. I evaluated product performance, sales trends, discount strategies, customer retention, and inventory management. These insights supported the Marketing and Sales teams in making strategic, data-driven decisions to improve business outcomes.
 ## II. Dataset Access
 The e-commerce dataset is stored in a public Google BigQuery dataset. To access the dataset, follow these steps:
 - Log in to your Google Cloud Platform account and create a new project.
